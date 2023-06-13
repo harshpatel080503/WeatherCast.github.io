@@ -1,6 +1,6 @@
 Test this weather app:
 
-* Visit: https://nabilazahraa.github.io/Weather-App/
+* Visit: https://github.com/harshpatel080503
 
 * Search your city and the weather results will appear.
 
